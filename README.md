@@ -1,1 +1,3 @@
-# .github
+# ...
+
+This repository is just required by GitHub to have a README in the frontpage.
