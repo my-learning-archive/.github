@@ -4,5 +4,9 @@
 
 **Why does it exist?** Mostly for personal reference, but in moments of need, I can provide visibility to the private repositories, upon request. Some repositories are made public, some are private, but I'm including down below, a list for outside reference.
 
-![Repository List](https://github.com/my-learning-archive/.github/blob/main/profile/repositorylist.png)
-
+<details>
+  <summary>Repository List</summary>
+    <p>
+    <IMG src="https://github.com/my-learning-archive/.github/tree/main/profile/repositorylist.png"  alt="repositorylist.png"/>
+    </p>    
+</details>
