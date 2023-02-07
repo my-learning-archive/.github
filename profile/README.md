@@ -7,6 +7,6 @@
 <details>
   <summary>Repository List</summary>
     <p>
-    <IMG src="https://github.com/my-learning-archive/.github/tree/main/profile/repositorylist.png"  alt="repositorylist.png"/>
+    <IMG src="https://raw.githubusercontent.com/my-learning-archive/.github/main/profile/repositorylist.png"  alt="repositorylist.png"/>
     </p>    
 </details>
