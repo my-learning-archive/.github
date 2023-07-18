@@ -4,9 +4,14 @@
 
 **Why does it exist?** Mostly for personal reference, but in moments of need, I can provide visibility to the private repositories, upon request. Some repositories are made public, some are private, but I'm including down below, a list for outside reference.
 
-<details>
-  <summary><b>Repository List</b></summary>
-    <p>
-    <IMG src="https://raw.githubusercontent.com/my-learning-archive/.github/main/profile/repositorylist.png"  alt="repositorylist.png"/>
-    </p>    
-</details>
+**What technologies have been explored in these repositories?** In alphabetical order:
+- Docker and Docker Compose
+- Hadoop (HDFS, YARN, MapReduce)
+- Hive
+- Hyperledger Fabric
+- Kubernetes
+- MongoDB
+- NFS
+- NodeJS
+- Spark
+- Vagrant
