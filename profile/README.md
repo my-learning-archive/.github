@@ -4,9 +4,7 @@
 
 **Why does it exist?** Mostly for personal reference, but in moments of need, I can provide visibility to the private repositories, upon request. Some repositories are made public, some are private, but I'm including down below, a list for outside reference.
 
-**What technologies have been explored in these repositories (so far)?** 
-
-Systems (in alphabetical order):
+**What technologies/systems have been explored in these repositories (so far)?**
 - **Docker** and **Docker Compose** - container engine
 - **Fablo** - local Hyperledger Fabric network provisioner
 - **Hadoop (HDFS, YARN, MapReduce)** - big data processing engine
