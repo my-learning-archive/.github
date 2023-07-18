@@ -4,14 +4,16 @@
 
 **Why does it exist?** Mostly for personal reference, but in moments of need, I can provide visibility to the private repositories, upon request. Some repositories are made public, some are private, but I'm including down below, a list for outside reference.
 
-**What technologies have been explored in these repositories?** In alphabetical order:
-- Docker and Docker Compose
-- Hadoop (HDFS, YARN, MapReduce)
-- Hive
-- Hyperledger Fabric
-- Kubernetes
-- MongoDB
-- NFS
-- NodeJS
-- Spark
-- Vagrant
+**What technologies have been explored in these repositories (so far)?** 
+
+Systems (in alphabetical order):
+- **Docker** and **Docker Compose** - container engine
+- **Fablo** - local Hyperledger Fabric network provisioner
+- **Hadoop (HDFS, YARN, MapReduce)** - big data processing engine
+- **Hive** - structured data processing engine
+- **Hyperledger Fabric** - distributed ledger/blockchain technology
+- **Kubernetes** - distributed container orchestrator for production environments
+- **MongoDB** and **Mongo Express** - database
+- **Network File System (NFS)** - distributed shared folder protocol
+- **Spark** - big data processing engine
+- **Vagrant** - virtual machine environment provisioner/manager
