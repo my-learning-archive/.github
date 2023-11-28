@@ -27,6 +27,7 @@
 ## **Libraries:**
 - **Flask** - Python library for web development
 - **Streamlit** - Python library for web development
+- **React** - frontend web-development framework
 
 ## **Others:**
 - **Network File System (NFS)** - distributed shared directory protocol
