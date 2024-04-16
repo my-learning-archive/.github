@@ -19,7 +19,7 @@
 ## **Blockchain:**
 - **Fablo** - local Hyperledger Fabric network provisioner
 - **Hyperledger Fabric** - distributed ledger/blockchain technology
-- 
+
 ## **Big Data:**
 - **Hadoop (HDFS, YARN, MapReduce)** - big data processing engine
 - **Hive** - structured data processing engine
