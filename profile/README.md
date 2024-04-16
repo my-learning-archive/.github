@@ -6,19 +6,24 @@
 
 **What technologies/systems have been explored in these repositories (so far)?**
 
-## **Big Data Engines:**
+## **Provisioning, Configuration Management and Orchestration:**
+- **Ansible** - configuration management tool
+- **Docker** and **Docker Compose** - container engine
+- **Kubernetes** - distributed container orchestration system
+- **Terraform** - infrastructure as code tool to provisioning virtual resources in the cloud
+- **Vagrant** - virtual machine environment provisioner/manager
+
+## **DevOps:**
+- **GitLab CI/CD** - feature of gitlab that allows the automation of CI/CD pipelines
+
+## **Blockchain:**
+- **Fablo** - local Hyperledger Fabric network provisioner
+- **Hyperledger Fabric** - distributed ledger/blockchain technology
+- 
+## **Big Data:**
 - **Hadoop (HDFS, YARN, MapReduce)** - big data processing engine
 - **Hive** - structured data processing engine
 - **Spark** - big data processing engine
-
-## **Blockchain and Distributed Ledgers:**
-- **Fablo** - local Hyperledger Fabric network provisioner
-- **Hyperledger Fabric** - distributed ledger/blockchain technology
-
-## **Containers and Virtual Machines:**
-- **Docker** and **Docker Compose** - container engine
-- **Kubernetes** - distributed container orchestrator for production environments
-- **Vagrant** - virtual machine environment provisioner/manager
 
 ## **Databases:**
 - **MongoDB** - document database
