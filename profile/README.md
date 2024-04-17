@@ -4,7 +4,7 @@
 
 **Why does it exist?** Mostly for personal reference, but in moments of need, I can provide visibility to the private repositories, upon request. Some repositories are made public, some are private, but I'm including down below, a list for outside reference.
 
-**What technologies/systems have been explored in these repositories (so far)?**
+**There are currently 13 repositories in this archive, addressing the following technologies:**
 
 ## **Provisioning, Configuration Management and Orchestration:**
 - **Ansible** - configuration management tool
