@@ -10,7 +10,7 @@
 - **Ansible** - configuration management tool
 - **Docker** and **Docker Compose** - container engine
 - **Kubernetes** - distributed container orchestration system
-- **Terraform** - infrastructure as code tool to provisioning virtual resources in the cloud
+- **Terraform** - infrastructure as code tool
 - **Vagrant** - virtual machine environment provisioner/manager
 
 ## **DevOps:**
