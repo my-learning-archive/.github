@@ -12,6 +12,7 @@
 - **Kubernetes** - distributed container orchestration system
 - **Terraform** - infrastructure as code tool
 - **Vagrant** - virtual machine environment provisioner/manager
+- **AWS CLI** - command line interface for Amazon Web Services
 
 ## **DevOps:**
 - **GitLab CI/CD** - feature of gitlab that allows the automation of CI/CD pipelines (GitHub as archive)
