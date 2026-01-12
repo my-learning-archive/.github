@@ -14,7 +14,7 @@
 - **Vagrant** - virtual machine environment provisioner/manager
 
 ## **DevOps:**
-- **GitLab CI/CD** - feature of gitlab that allows the automation of CI/CD pipelines
+- **GitLab CI/CD** - feature of gitlab that allows the automation of CI/CD pipelines (GitHub as archive)
 
 ## **Blockchain:**
 - **Fablo** - local Hyperledger Fabric network provisioner
