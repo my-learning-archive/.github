@@ -4,9 +4,9 @@
 
 **Why does it exist?** Mostly for personal reference. To stimulate discussions when convenient.
 
-**Some covered technologies:**
+## **Some covered technologies:**
 
-## *Provisioning, Configuration Management and Orchestration:*
+### *Provisioning, Configuration Management and Orchestration:*
 - **Ansible** - configuration management tool
 - **AWS CLI** - command line interface for Amazon Web Services
 - **Docker** and **Docker Compose** - container engine
@@ -14,26 +14,26 @@
 - **Terraform** - infrastructure as code tool
 - **Vagrant** - virtual machine environment provisioner/manager
 
-## *DevOps:*
+### *DevOps:*
 - **GitLab CI/CD** - feature of gitlab that allows the automation of CI/CD pipelines (GitHub as archive)
 
-## *Blockchain:*
+### *Blockchain:*
 - **Fablo** - local Hyperledger Fabric network provisioner
 - **Hyperledger Fabric** - distributed ledger/blockchain technology
 
-## *Big Data:*
+### *Big Data:*
 - **Hadoop (HDFS, YARN, MapReduce)** - big data processing engine
 - **Hive** - structured data processing engine
 - **Spark** - big data processing engine
 
-## *Databases:*
+### *Databases:*
 - **MongoDB** - document database
 - **MySQL** - relational database
 
-## *Libraries:*
+### *Libraries:*
 - **Flask** - Python library for web development
 - **Streamlit** - Python library for web development
 - **React** - frontend web-development framework
 
-## *Others:*
+### *Others:*
 - **Network File System (NFS)** - distributed shared directory protocol
